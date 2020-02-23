@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* footer*/
+footer{
+		width:100%;
+		height:75px;
+		background-color:white;
+		position: relative;
+		top:86%;
+		font-size: 15px;
+		background:#505256;
+		padding: 20px 0px;
+}
+/* footer*/
+footer nav {height:50px;background:#3c3d3e;}
+footer nav ul {width:1200px;margin:0 auto;}
+footer nav ul.rw-fnav {width:0;height:0;font-size:0;position:absolute;left:-9999px;top:-9999px;}
+footer nav ul li {float:left;width:18%;line-height:50px;border-right:1px solid #757576;text-align:center; list-style: none;}
+footer nav ul li:first-child {border-left:1px solid #757576;}
+footer nav ul li a {color:#cfcfcf;color:#cfcfcf; text-decoration: none;}
+footer co {padding:30px 0;background:#505256;}
+footer .foot {width:1200px;margin:0 auto;}
+footer .foot > span {padding-right:30px;float:left;}
+footer .foot > ul {overflow:hidden;padding-bottom:10px;}
+footer .foot > ul li {float:left;padding:0 10px;background:url('../../images/ntour/images/common/bar_1.gif') no-repeat 0 50%;list-style: none;}
+footer .foot > ul li:first-child {background:none;padding-left:0;}
+footer .foot > ul li a {color:#cfcfcf; text-decoration: none;}
+address {color:#cfcfcf;}
+address p.copyright {color:#ababac;}
